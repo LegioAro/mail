@@ -10,7 +10,7 @@ $text = trim($text);
 if(mail("legionaro1020@gmail.com",
 "Test",
 "It is text? : ".$text,
-"From: test@gmail.com \r\n")
+"From: legionaro2@gmail.com \r\n")
 
 ){
     echo ('ok');
